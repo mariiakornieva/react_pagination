@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Pagination.css"],"names":[],"mappings":"AAAA,MACE,QACF,CCFA,kBACE,iBACF,CAEA,WACE,2BACF","file":"main.909fdcab.chunk.css","sourcesContent":[".body {\n  margin: 0;\n}\n",".Pagination__info {\n  text-align: center;\n}\n\n.page-link {\n  transition: all 500ms ease-out;\n}\n"]}
